@@ -1,14 +1,15 @@
 # Calculadora JavaScript
 
-Calculadora desenvolvida como exemplo do Curso Completo de JavaScript na Udemy.com.
+Projeto da Calculadora desenvolvida no Curso Completo de JavaScript na Udemy.com
+(https://www.udemy.com/course/curso-html5-css3-javascript/).
 
 ### Acesso
 
 Para acessar e ver como funciona: https://calculadora-andrealvesaraujo.vercel.app/
 
-### Projeto
+### Detalhes
 
-Video Do Projeto:
+- Aparece a data e as horas
 
 - Funciona tanto o clique quanto o uso do teclado
 
@@ -16,4 +17,7 @@ Video Do Projeto:
 
 - Calculadora limitada até 10 digitos. Se passar disso aparece uma mensagem de erro.
 
+### Video Do Projeto
+
 ![Calculadora-Hcode](https://user-images.githubusercontent.com/18336972/112408600-dcd93d00-8cf6-11eb-9d8c-03f7a7b3bd5c.gif)
+
