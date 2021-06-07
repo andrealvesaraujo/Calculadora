@@ -1,11 +1,11 @@
 # Calculadora JavaScript
 
-Projeto da Calculadora desenvolvida no Curso Completo de JavaScript na Udemy.com
+Projeto da Calculadora desenvolvida no Curso Completo de JavaScript na Udemy.com em 2021
 (https://www.udemy.com/course/curso-html5-css3-javascript/).
 
-### Acesso
+### Link da aplicação:
 
-Para acessar e ver como funciona: https://calculadora-andrealvesaraujo.vercel.app/
+https://calculadora-andrealvesaraujo.vercel.app/
 
 ### Detalhes
 
