@@ -1,7 +1,7 @@
 # Calculadora JavaScript
 
 Projeto da Calculadora desenvolvida no Curso Completo de JavaScript na Udemy.com em 2021
-(https://www.udemy.com/course/curso-html5-css3-javascript/).
+(https://www.udemy.com/course/javascript-curso-completo/).
 
 ### Link da aplicação:
 
